@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1052560901074",
+    "project_id": "tensorflowlitedemo-3cdce",
+    "storage_bucket": "tensorflowlitedemo-3cdce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052560901074:android:3b634073c8284b1c59fe0b",
+        "android_client_info": {
+          "package_name": "com.rekoj134.tensorflowlitedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAlTXdePFeHqIky3pAkBV5-w0HULSsB14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
